@@ -1,3 +1,5 @@
 # hfHtmlProject
 ## Task_1
-task 1 description
+add lounge.html
+## Task_2
+add index.html
