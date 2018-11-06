@@ -6,11 +6,16 @@
 
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
-    font-size; small;
+    font-size: small;
+}
+
+h1, h2 {
+    color: #cc6600;
+    border-bottom: #cc6600 dotted thin
 }
 
 h1 {
-    font-family:  "Emblema One", sans-serif;
+    font-family: "Emblema One", sans-serif;
     font-size: 220%;
 }
 
