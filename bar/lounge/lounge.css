@@ -40,6 +40,7 @@ h2 {
     background-repeat: repeat-x;
     background-position: top center;
     line-height: 1;
+    float: right;
 }
 
 div h2 {
